@@ -1,6 +1,6 @@
 extends Area2D
 
-const MOTION_SPEED = 150
+const MOTION_SPEED = 300
 
 @export var left = false
 
